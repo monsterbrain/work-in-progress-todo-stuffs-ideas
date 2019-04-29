@@ -2,6 +2,7 @@
 Personal List of things I would like to work on someday, or in work in progress etc
 
 # Todo Stuffs / Ideas
+ - Android App to share coding tricks and tips (added 29-04-2019)
  - Make a working Calendar using the [spectre.css](https://picturepan2.github.io/spectre/experimentals/calendars.html) and the [simple calendar](https://github.com/monsterbrain/simple-calendar) - added on 20/3/2019
  - Keyboard Shortcuts combinations image creator / inline html creator. (slightly work in progress) - updated 20/3/2019
  - Netbeans Code Snippets to add - creating snippet Tutorial - added 20/3/2019
