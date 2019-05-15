@@ -4,6 +4,7 @@ Personal List of things I would like to work on someday, or in work in progress 
 # Todo Stuffs / Ideas (date format - dd-mm-yyyy)
 ## May - 2019
  - Generate selector based on the html markup for queryselector or jquery (added 14-05-2019)
+ - Left/right panel browser based emmet extension trainer website (added 15-05-2019)
  
 ## April - 2019
  - Html markup to javascript appending code converter (added 25-04-2019)
