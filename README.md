@@ -6,6 +6,7 @@ Personal List of things I would like to work on someday, or in work in progress 
  - Generate selector based on the html markup for queryselector or jquery (added 14-05-2019)
  - Left/right panel browser based emmet extension trainer website (added 15-05-2019) 
   ref -  [TextAreaPlugin](https://github.com/emmetio/textarea) [css cheatsheet](https://codepen.io/andyhullinger/pen/rVJKpj) [Emmet Quiz](https://codepen.io/rileypaulsen/pen/MVxoGv) [fancy stuffs](https://blog.codepen.io/2013/04/24/emmet-on-codepen/)
+ - Site showing step by step procedure for making icons with css styling only (ref [CSS icons](https://github.com/picturepan2/icons.css) also [this one](https://saeedalipoor.github.io/icono/))
  
 ## April - 2019
  - Html markup to javascript appending code converter (added 25-04-2019)
