@@ -2,6 +2,9 @@
 Personal List of things I would like to work on someday, or in work in progress etc
 
 # Todo Stuffs / Ideas (date format - dd-mm-yyyy)
+## June - 2019
+ - work on fold comments plugin for vscode
+ - Universal Standard for Manglish USM-1 format
 ## May - 2019
  - Generate selector based on the html markup for queryselector or jquery (added 14-05-2019)
  - Left/right panel browser based emmet extension trainer website (added 15-05-2019) 
