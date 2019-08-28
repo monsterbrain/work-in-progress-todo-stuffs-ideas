@@ -2,6 +2,8 @@
 Personal List of things I would like to work on someday, or in work in progress etc
 
 # Todo Stuffs / Ideas (date format - dd-mm-yyyy)
+## August - 2019
+ - JS13k Game Jam Entry
 ## June - 2019
  - work on fold comments plugin for vscode (Not successfully build)
  - Universal Standard for Manglish USM-1 format
