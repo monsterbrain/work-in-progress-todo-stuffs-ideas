@@ -1,11 +1,18 @@
 # Work in progress
 Personal List of things I would like to work on someday, or in work in progress etc
 
-# Todo Stuffs / Ideas (date format - dd-mm-yyyy)
+# Todo Stuffs / Ideas
+
+## January - 2019
+ - Android Sample App Icon creator and multiple versions (added somewhere around first week)
+ - Andorid Tips and Tricks Android App (reloaded)
+ - Reactjs Quiz App
+
 ## August - 2019
- - JS13k Game Jam Entry
+ - JS13k Game Jam Entry (late submitted [here](https://github.com/monsterbrain/js13k-2019-game))
+ 
 ## June - 2019
- - work on fold comments plugin for vscode (Not successfully build)
+ - ~work on fold comments plugin for vscode (Not successfully build)~
  - Universal Standard for Manglish USM-1 format
  - Android Studio Plugin for showing coding guide lines popup, based on context
 ## May - 2019
